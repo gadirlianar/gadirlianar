@@ -1,51 +1,80 @@
 <div align="center">
 
-# Salam, mən Anaram! 👋
+# Hi there, I'm Anar Gadirli 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Computer+Engineering+%40+ASOIU+%26+Yessenov;Junior+Infrastructure+Intern+%40+AzInTelecom;TU+Berlin+Scholar+%F0%9F%87%A9%F0%9F%87%AA;Vibe+Coding+%26+AI-Driven+Engineering;Building+Scalable+%26+Modern+Systems" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+ASOIU+%26+Yessenov;Junior+Infrastructure+Intern+%40+AzInTelecom;TU+Berlin+Scholar+%F0%9F%87%A9%F0%9F%87%AA;Vibe+Coding+%26+AI-Augmented+Engineering;%22You+met+me+at+a+very+falcon+time+of+my+life.%22" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gadirlianar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anargadirli55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/GitHub%20Pro-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AzInTelecom-Cloud_&_Infra-0EA5E9?style=for-the-badge" />
+  <a href="https://linkedin.com/in/gadirlianar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anargadirli55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/GitHub%20Pro-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
+  <img src="https://img.shields.io/badge/AzInTelecom-Cloud_&_Infra-0EA5E9?style=for-the-badge" alt="AzInTelecom" />
+  <img src="https://img.shields.io/badge/TU%20Berlin-Scholar-E11D48?style=for-the-badge" alt="TU Berlin" />
 </p>
+
+---
+
+> ### *"You met me at a very falcon time of my life."*  
+> — **Anar Gadirli**
 
 ---
 
 </div>
 
-### 🚀 Haqqımda
+## ⚡ About Me
 
-- 🎓 **Kompüter Mühəndisliyi:** ADNSU (ASOIU) və Yessenov Universiteti (Qazaxıstan) beynəlxalq mübadilə təcrübəsi.
-- 🇩🇪 **TU Berlin Təqaüdçüsü:** Berlin Texniki Universitetində təcrübə və akademik inkişaf.
-- ☁️ **İnfrastruktur və Bulud:** Hazırda **AzInTelecom**-da *Junior Infrastructure Engineer Intern* olaraq IT infrastrukturu, bulud xidmətləri və sistem performansının optimallaşdırılması üzərində çalışıram.
-- ⚡ **Müasir İnkişaf (Vibe Coding):** Süni intellekt alətlərindən (AI-driven coding), müasir arxitekturalardan və qabaqcıl metodologiyalardan istifadə edərək sürətli və davamlı sistemlərin qurulması.
+- 🎓 **Academic Background:** Computer Engineering student at **ASOIU** (Azerbaijan State Oil & Industry University) with international exchange scholarship experience at **Yessenov University** (Kazakhstan).
+- 🇩🇪 **TU Berlin Scholar:** Recognized scholar at **Technische Universität Berlin**, advancing computing & research skills.
+- ☁️ **Infrastructure & Cloud:** Sharpening hands-on systems expertise as a **Junior Infrastructure Engineer Intern at AzInTelecom**, optimizing IT infrastructure, distributed cloud services, and system performance.
+- 🚀 **Next-Gen Engineering (Vibe Coding):** Championing modern engineering with autonomous AI agents, high-velocity prototyping, and production-grade architectures.
 
 ---
 
-### 🛠️ Texnologiyalar və Alətlər
+## 🤖 AI-Augmented Engineering & Vibe Coding
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-Agentic%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-Editor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini%203.8-Multimodal-8E24AA?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/v0-Vercel%20Generative%20UI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
+</p>
+
+---
+
+## 🛠️ Tech Stack & Engineering Arsenal
 
 <div align="center">
 
-#### AI & Müasir İnkişaf (Vibe Coding)
+### Modern Languages & Core Systems
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,bash,c,html,css" alt="Languages" />
   </a>
 </p>
 
-#### Sistemlər, Bulud və Dillər
+### Frontend, Web & Reactive Ecosystem
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,python,ts,js,cpp" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap,redux,sass" alt="Frontend" />
   </a>
 </p>
 
-#### Veb və İnterfeys Arxitekturası
+### Cloud, Infrastructure, DevOps & Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nodejs,express,flask,nginx,git,github,githubactions,vercel" alt="Cloud & DevOps" />
+  </a>
+</p>
+
+### Databases, Storage & Design Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,postman,figma,vscode" alt="Tools & DB" />
   </a>
 </p>
 
@@ -53,30 +82,38 @@
 
 ---
 
-### 🌟 Seçilmiş Əsas Layihələr
+## 🌟 Featured Projects
 
-| Layihə | Təsvir | Texnologiya |
-| :--- | :--- | :--- |
-| ☀️ **[Solaris-Energy](https://github.com/gadirlianar/Solaris-Energy)** | Yaşıl enerji və dayanıqlı texnologiyalar üçün rəqəmsal platforma | Veb Texnologiyaları |
-| 🛍️ **[Store-MA](https://github.com/gadirlianar/Store-MA)** | Müasir, sürətli və miqyaslana bilən e-ticarət / anbar sistemi | TypeScript & Modern Stack |
+| Project | Highlights & Architecture | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| ☀️ **[Solaris-Energy](https://github.com/gadirlianar/Solaris-Energy)** | High-impact sustainable energy and green-tech digital platform | Modern TypeScript, React, Responsive UI | `Public` 🚀 |
+| 🛍️ **[Store-MA](https://github.com/gadirlianar/Store-MA)** | Scalable modern e-commerce and automated inventory platform | TypeScript, Architecture, Modular Design | `Public` 🚀 |
 
 ---
 
-### 📊 GitHub Fəallığı və Statistikalar
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gadirlianar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadirlianar&theme=tokyonight&hide_border=true" alt="Anar's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gadirlianar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366F1&text_color=94A3B8&icon_color=38BDF8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadirlianar&theme=tokyonight&hide_border=true&stroke=6366F1&background=1A1B26&ring=38BDF8&fire=F43F5E&currStreakNum=F8FAFC" alt="Streak Stats" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadirlianar&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=94A3B8" alt="Top Languages" width="55%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <i>"Hər bir mürəkkəb problem zərif və effektiv mühəndislik həlli tələb edir."</i>
+  <i>"Transforming ideas into resilient digital realities through autonomous engineering."</i>
+  <br>
+  <sub>Crafted with passion by Anar Gadirli</sub>
 </div>
