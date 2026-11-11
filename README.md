@@ -3,7 +3,7 @@
 # Hi there, I'm Anar Gadirli 👋
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+ASOIU+%26+Yessenov;Junior+Infrastructure+Intern+%40+AzInTelecom;TU+Berlin+Scholar+%F0%9F%87%A9%F0%9F%87%AA;Vibe+Coding+%26+AI-Augmented+Engineering;%22You+met+me+at+a+very+falcon+time+of+my+life.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Junior+Infrastructure+Intern+%40+AzInTelecom;Full+Stack+%26+Cloud+Systems;Vibe+Coding+%26+Autonomous+AI;Welcome+to+the+Falcon+era+of+my+journey." alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -11,12 +11,11 @@
   <a href="mailto:anargadirli55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/GitHub%20Pro-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
   <img src="https://img.shields.io/badge/AzInTelecom-Cloud_&_Infra-0EA5E9?style=for-the-badge" alt="AzInTelecom" />
-  <img src="https://img.shields.io/badge/TU%20Berlin-Scholar-E11D48?style=for-the-badge" alt="TU Berlin" />
 </p>
 
 ---
 
-> ### *"You met me at a very falcon time of my life."*  
+> ### *"You met me in the Falcon era of my life — where every challenge becomes altitude."*  
 > — **Anar Gadirli**
 
 ---
@@ -25,10 +24,9 @@
 
 ## ⚡ About Me
 
-- 🎓 **Academic Background:** Computer Engineering student at **ASOIU** (Azerbaijan State Oil & Industry University) with international exchange scholarship experience at **Yessenov University** (Kazakhstan).
-- 🇩🇪 **TU Berlin Scholar:** Recognized scholar at **Technische Universität Berlin**, advancing computing & research skills.
-- ☁️ **Infrastructure & Cloud:** Sharpening hands-on systems expertise as a **Junior Infrastructure Engineer Intern at AzInTelecom**, optimizing IT infrastructure, distributed cloud services, and system performance.
-- 🚀 **Next-Gen Engineering (Vibe Coding):** Championing modern engineering with autonomous AI agents, high-velocity prototyping, and production-grade architectures.
+- ☁️ **Infrastructure & Cloud:** Junior Infrastructure Engineer Intern at **AzInTelecom**, focusing on cloud infrastructure, system virtualization, and performance engineering.
+- 🚀 **Next-Gen Engineering (Vibe Coding):** Championing modern engineering with autonomous AI tools, high-velocity prototyping, and resilient system architectures.
+- 🎯 **Current Focus:** High-performance web applications, scalable backend systems, and automated infrastructure workflows.
 
 ---
 
@@ -39,7 +37,6 @@
   <img src="https://img.shields.io/badge/Google%20Antigravity-Agentic%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Cursor%20AI-Editor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/OpenAI-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini%203.8-Multimodal-8E24AA?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
   <img src="https://img.shields.io/badge/v0-Vercel%20Generative%20UI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
 </p>
@@ -91,23 +88,10 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Streak & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gadirlianar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366F1&text_color=94A3B8&icon_color=38BDF8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadirlianar&theme=tokyonight&hide_border=true&stroke=6366F1&background=1A1B26&ring=38BDF8&fire=F43F5E&currStreakNum=F8FAFC" alt="Streak Stats" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadirlianar&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=94A3B8" alt="Top Languages" width="55%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadirlianar&theme=tokyonight&hide_border=true&stroke=6366F1&background=1A1B26&ring=38BDF8&fire=F43F5E&currStreakNum=F8FAFC" alt="Streak Stats" />
 </div>
 
 ---
