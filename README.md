@@ -3,7 +3,7 @@
 # Hi there, I'm Anar Gadirli 👋
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Junior+Data+Center+IT+Technician+%40+AzInTelecom;AI+%26+Explainable+ML+Engineering;Autonomous+Vibe+Coding+%26+Cloud+Systems;Welcome+to+the+Falcon+era+of+my+journey." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=780&lines=Junior+Data+Center+IT+Technician+%40+AzInTelecom;Enterprise+Infrastructure+%26+Systems+Engineering;Explainable+AI+(XAI)+%26+Empirical+Research;Autonomous+Vibe+Coding+%26+Next-Gen+Web+Platforms;Welcome+to+the+Falcon+era+of+my+engineering+journey." alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -25,8 +25,9 @@
 ## ⚡ Engineering Profile
 
 - 🏢 **Data Center & IT Operations:** Junior Data Center IT Technician at **AzInTelecom**, managing data center infrastructure, server hardware, systems maintenance, and network operations.
-- 🧠 **Explainable AI & Machine Learning:** Conducting research and benchmarks in Explainable AI (XAI) models and high-concurrency data systems.
+- 🧠 **Explainable AI & Machine Learning:** Conducting research and empirical benchmarks in Explainable AI (XAI) models (`credit-xai-benchmark`) and data systems.
 - 🚀 **Autonomous Engineering (Vibe Coding):** Leveraging cutting-edge agentic workflows, LLM orchestration, and rapid prototyping to build production-grade systems.
+- 🌐 **Modern Full-Stack Systems:** Designing fast, responsive, and robust web applications with Next.js, React, TypeScript, and modern backend services.
 
 ---
 
@@ -40,6 +41,8 @@
   <img src="https://img.shields.io/badge/LaTeX-474747?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
 </p>
 
 ### 🏢 Data Center, Systems & Infrastructure (AzInTelecom)
@@ -62,17 +65,32 @@
   <img src="https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
 </p>
 
-### 🌐 Modern Web Architecture, Frameworks & DB
+### 🌐 Modern Languages, Distributed Web & Frontend Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+### 🗄️ Backend Services, Cloud & Databases
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
@@ -96,7 +114,5 @@
 ---
 
 <div align="center">
-  <i>"Transforming ideas into resilient digital realities through autonomous engineering."</i>
-  <br>
-  <sub>Crafted with passion by Anar Gadirli</sub>
+  <sub>© Anar Gadirli • Falcon Systems & Intelligence</sub>
 </div>
