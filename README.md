@@ -3,14 +3,14 @@
 # Hi there, I'm Anar Gadirli 👋
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Junior+Infrastructure+Intern+%40+AzInTelecom;AI+%26+Explainable+ML+Engineering;Autonomous+Vibe+Coding+%26+Cloud+Systems;Welcome+to+the+Falcon+era+of+my+journey." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Junior+Data+Center+IT+Technician+%40+AzInTelecom;AI+%26+Explainable+ML+Engineering;Autonomous+Vibe+Coding+%26+Cloud+Systems;Welcome+to+the+Falcon+era+of+my+journey." alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://linkedin.com/in/gadirlianar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anargadirli55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/GitHub%20Pro-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
-  <img src="https://img.shields.io/badge/AzInTelecom-Cloud_&_Infra-0EA5E9?style=for-the-badge" alt="AzInTelecom" />
+  <img src="https://img.shields.io/badge/AzInTelecom-Data_Center_IT_Technician-0EA5E9?style=for-the-badge" alt="AzInTelecom" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ## ⚡ Engineering Profile
 
-- ☁️ **Infrastructure & Cloud:** Junior Infrastructure Engineer Intern at **AzInTelecom**, focusing on enterprise virtualization, cloud architecture, and infrastructure reliability.
+- 🏢 **Data Center & IT Operations:** Junior Data Center IT Technician at **AzInTelecom**, managing data center infrastructure, server hardware, systems maintenance, and network operations.
 - 🧠 **Explainable AI & Machine Learning:** Conducting research and benchmarks in Explainable AI (XAI) models and high-concurrency data systems.
 - 🚀 **Autonomous Engineering (Vibe Coding):** Leveraging cutting-edge agentic workflows, LLM orchestration, and rapid prototyping to build production-grade systems.
 
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### ☁️ Cloud, Systems & Infrastructure (AzInTelecom Stack)
+### 🏢 Data Center, Systems & Infrastructure (AzInTelecom)
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
