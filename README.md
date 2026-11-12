@@ -3,7 +3,7 @@
 # Hi there, I'm Anar Gadirli 👋
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=780&lines=Infrastructure+Department%2C+Data+Center+%40+AzInTelecom;Enterprise+Infrastructure+%26+Systems+Engineering;Explainable+AI+(XAI)+%26+Empirical+Research;Autonomous+Vibe+Coding+%26+Next-Gen+Web+Platforms;Welcome+to+the+Falcon+era+of+my+engineering+journey." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Data+Center+Infrastructure+%40+AzInTelecom;Explainable+AI+(XAI)+Research;Autonomous+Engineering+%26+Systems" alt="Typing SVG" />
 </a>
 
 <br>
