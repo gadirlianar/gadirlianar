@@ -3,7 +3,7 @@
 # Hi there, I'm Anar Gadirli 👋
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Junior+Infrastructure+Intern+%40+AzInTelecom;Full+Stack+%26+Cloud+Systems;Vibe+Coding+%26+Autonomous+AI;Welcome+to+the+Falcon+era+of+my+journey." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Junior+Infrastructure+Intern+%40+AzInTelecom;AI+%26+Explainable+ML+Engineering;Autonomous+Vibe+Coding+%26+Cloud+Systems;Welcome+to+the+Falcon+era+of+my+journey." alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,69 +22,68 @@
 
 </div>
 
-## ⚡ About Me
+## ⚡ Engineering Profile
 
-- ☁️ **Infrastructure & Cloud:** Junior Infrastructure Engineer Intern at **AzInTelecom**, focusing on cloud infrastructure, system virtualization, and performance engineering.
-- 🚀 **Next-Gen Engineering (Vibe Coding):** Championing modern engineering with autonomous AI tools, high-velocity prototyping, and resilient system architectures.
-- 🎯 **Current Focus:** High-performance web applications, scalable backend systems, and automated infrastructure workflows.
-
----
-
-## 🤖 AI-Augmented Engineering & Vibe Coding
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-Agentic%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Cursor%20AI-Editor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
-  <img src="https://img.shields.io/badge/v0-Vercel%20Generative%20UI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
-</p>
+- ☁️ **Infrastructure & Cloud:** Junior Infrastructure Engineer Intern at **AzInTelecom**, focusing on enterprise virtualization, cloud architecture, and infrastructure reliability.
+- 🧠 **Explainable AI & Machine Learning:** Conducting research and benchmarks in Explainable AI (XAI) models and high-concurrency data systems.
+- 🚀 **Autonomous Engineering (Vibe Coding):** Leveraging cutting-edge agentic workflows, LLM orchestration, and rapid prototyping to build production-grade systems.
 
 ---
 
-## 🛠️ Tech Stack & Engineering Arsenal
+## 🛠️ Technical Arsenal & Ecosystem
 
-<div align="center">
-
-### Modern Languages & Core Systems
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,bash,c,html,css" alt="Languages" />
-  </a>
+### 🧠 Explainable AI, Machine Learning & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/LaTeX-474747?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### Frontend, Web & Reactive Ecosystem
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap,redux,sass" alt="Frontend" />
-  </a>
+### ☁️ Cloud, Systems & Infrastructure (AzInTelecom Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### Cloud, Infrastructure, DevOps & Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nodejs,express,flask,nginx,git,github,githubactions,vercel" alt="Cloud & DevOps" />
-  </a>
+### 🚀 Autonomous AI & Vibe Coding Arsenal
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
 </p>
 
-### Databases, Storage & Design Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,postman,figma,vscode" alt="Tools & DB" />
-  </a>
+### 🌐 Modern Web Architecture, Frameworks & DB
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
-
-</div>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Engineering Projects
 
-| Project | Highlights & Architecture | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| ☀️ **[Solaris-Energy](https://github.com/gadirlianar/Solaris-Energy)** | High-impact sustainable energy and green-tech digital platform | Modern TypeScript, React, Responsive UI | `Public` 🚀 |
-| 🛍️ **[Store-MA](https://github.com/gadirlianar/Store-MA)** | Scalable modern e-commerce and automated inventory platform | TypeScript, Architecture, Modular Design | `Public` 🚀 |
+| Project | Domain | Architecture & Highlights | Tech Stack | Status |
+| :--- | :---: | :--- | :--- | :---: |
+| 🧠 **[credit-xai-benchmark](https://github.com/gadirlianar/credit-xai-benchmark)** | Explainable AI & ML | Empirical benchmark evaluating Explainable AI (XAI) models in credit risk evaluation | Python, TeX/LaTeX, ML | `Public` 🌟 |
+| ☀️ **[Solaris-Energy](https://github.com/gadirlianar/Solaris-Energy)** | Clean-Tech & Web | High-impact responsive digital platform for sustainable energy systems | Modern TypeScript, React | `Public` 🚀 |
+| 🛍️ **[Store-MA](https://github.com/gadirlianar/Store-MA)** | Enterprise E-Commerce | Scalable modern e-commerce and automated inventory platform | TypeScript, Architecture | `Public` 🚀 |
 
 ---
 
